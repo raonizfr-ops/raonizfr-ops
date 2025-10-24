@@ -1,7 +1,8 @@
 # Olá, eu sou o Raoni Zardo Freire da Rocha
 
-Estudante de Engenharia de Software com foco em desenvolvimento full-stack. Estou construindo minha base de conhecimento em tecnologias modernas e buscando uma oportunidade para iniciar minha carreira na área de tecnologia.
+Estudante de Engenharia de Software na Catolica SC, com foco em desenvolvimento full-stack. Estou construindo minha base de conhecimento em tecnologias modernas e buscando uma oportunidade para iniciar minha carreira na área de tecnologia.
 
+Meu Github de Estudante:
 
 <br>
 
