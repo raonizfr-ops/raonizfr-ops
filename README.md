@@ -6,13 +6,13 @@ Meu Github de Estudante:
 
 <br>
 
-## 🔗 Conecte-se Comigo
+##  Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raoni-zardo-freire-da-rocha-164525390/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Raonizfr@gmail.com)
 
 <br>
 
-## 💻 Minha "Caixa de Ferramentas" Tecnológica
+##  Minha "Caixa de Ferramentas" Tecnológica
 
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
@@ -66,7 +66,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 <br>
 
-## 📊 Minhas Estatísticas no GitHub
+##  Minhas Estatísticas no GitHub
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de [Seu Nome]">
